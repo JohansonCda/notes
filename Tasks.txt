@@ -1,0 +1,13 @@
+Notes app with tall stack:
+
+Requirements:
+    - User log in and create accounts
+    - Users can type notes and save them
+    - Users can send notes via email
+    - The receiver can vote with a heart the note sent
+
+Controls:
+    - The users can't view other user's notes
+    - Notes should only be public once sent
+    - Notes should be as secure as possible for public-facing notes
+        - Use UUIDs for example 004-adsf23sd-321fddsf
